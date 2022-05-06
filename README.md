@@ -10,9 +10,10 @@
 **Conclusion:** Our study identified gene sets and finger-countable genes that were dysregulated in CVD blood samples. These findings may contribute to the understanding of CVD pathophysiology.
 
 ## Data
-
+      
 
 
 ## Analysis
 Comparison of disease-related transcriptomic signature among three blood CVD datasets. Each point indicates a gene. Y and X axes are logFC between two statuses described in the form of (A/B).
 
+![Figure 1](https://github.com/WCH-AI-LAB/Blood-CVD-genes/blob/main/fig-1.png "Figure 1")

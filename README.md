@@ -1,5 +1,8 @@
 # Identification of Cardiovascular Disease-related Genes Based on Genome-wide Blood Transcriptome
 
+<!-- [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/34342586/)
+[![DOI](https://img.shields.io/badge/DOI-10.2196/29331-blue.svg)](https://doi.org/10.2196/29331) -->
+
 ## Abstract
 **Background:** Inference of co-expression network and identification of disease-related modules and gene sets can help understand disease-related molecular pathophysiology. We aimed to identify a cardiovascular disease (CVD)-related transcriptomic signature, specifically in peripheral blood tissue, based on differential expression (DE) and differential co-expression (DcoE) analyses.
 
